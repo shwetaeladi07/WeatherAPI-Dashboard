@@ -3,6 +3,7 @@
 WeatherAPI.com is a simple and powerful service that returns live, historical, and forecast weather data — perfect for Power BI. The data is available in JSON format, making it easy to process and transform.
 
 🛠️ Prerequisites
+
 ✅ A free or paid account on WeatherAPI.com
 
 ✅ Power BI Desktop installed
