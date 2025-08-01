@@ -59,3 +59,6 @@ Insert icons representing the current weather.
 Plot the map visual with city locations.
 
 Allow your users to select cities dynamically.
+
+# Conclusion
+By integrating WeatherAPI into Power BI, I have created a dynamic weather dashboard with live data, then enrich it with custom AQI visualizations, all in a few easy steps. With these reusable DAX measures, my dashboard stays scalable, maintainable, and easy to enhance as my requirements grow.
